@@ -1,0 +1,1 @@
+# Python tretira direktorije s __init__.py datotekom kao pakete
